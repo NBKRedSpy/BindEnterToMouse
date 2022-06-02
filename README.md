@@ -15,6 +15,9 @@ Some of the most used actions:
 * Contract negotiations, begin mission.
 
 
+# Installation
+Download the mod from https://github.com/NBKRedSpy/BindEnterToMouse/releases/.  Unzip to the Battletech Mods folder.
+
 # mod.json Settings
 
 |Name|Default|Description|
