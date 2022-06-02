@@ -11,7 +11,7 @@ Nearly every dialog and action can be activated by the enter key, but it is not 
 Some of the most used actions:
 * Combat - just about every confirmation (fire, reserve, accept sensor lock, etc.)
 * Nearly every "confirm" action of dialogs.
-* Repair mech
+* Repair mech.
 * Contract negotiations, begin mission.
 
 
