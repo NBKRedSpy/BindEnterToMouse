@@ -6,7 +6,7 @@
 
 A very simple but extremely useful mod which binds the enter key to mouse button 4.
 
-Nearly every dialog and action can be activated by the enter key, but it is not bindable.  The enter key's position makes it more difficulty to use than necessary.
+Nearly every dialog and action can be activated by the enter key, but it is not bindable.  The enter key's position makes it more difficult to use than necessary.
 
 Some of the most used actions:
 * Combat - just about every confirmation (fire, reserve, accept sensor lock, etc.)
