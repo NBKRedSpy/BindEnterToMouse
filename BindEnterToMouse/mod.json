@@ -1,0 +1,16 @@
+﻿{
+  "Name": "BindEnterToMouse",
+  "Version": "1.0.0.0",
+  "Description": "",
+  "Author": "NBK_RedSpy",
+  "Website": "https://github.com/NBKRedSpy/BindEnterToMouse",
+
+  "Enabled": true,
+
+  "DLL": "BindEnterToMouse.dll",
+
+  "Settings": {
+    "MouseBind": "Button4",
+  }
+
+}
