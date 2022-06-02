@@ -25,7 +25,7 @@ Download the mod from https://github.com/NBKRedSpy/BindEnterToMouse/releases/.  
 |MouseBind|Mouse4|The mouse button to bind to.  |
 
 # Compatibility 
-Save to add and remove from existing saves.
+Safe to add and remove from existing saves.
 Should be compatible with any mod that does not rebind the target mouse button or the "Return" keybinding action.
 
 
