@@ -9,6 +9,20 @@ namespace BindEnterToMouse
 {
     public class ModSettings
     {
-        public Mouse MouseBind { get; set; } = Mouse.Button4;
+
+        /// <summary>
+        /// Backwards compatibility
+        /// </summary>
+        public Mouse MouseBind
+        {
+            set
+            {
+                EnterMouseBind = value;
+            }
+        }
+
+        public Mouse EnterMouseBind { get; set; } = Mouse.Button4;
+
+        public Mouse EscapeMouseBind { get; set; } = Mouse.Button5;
     }
 }

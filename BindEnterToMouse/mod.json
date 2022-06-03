@@ -10,7 +10,8 @@
   "DLL": "BindEnterToMouse.dll",
 
   "Settings": {
-    "MouseBind": "Button4",
+    "EnterMouseBind": "Button4",
+    "EscapeMouseBind": "Button5",
   }
 
 }
